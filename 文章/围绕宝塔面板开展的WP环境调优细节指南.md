@@ -1,11 +1,11 @@
 # 围绕宝塔面板开展的WP环境调优细节指南
 
-此文受Miss之托才会出现在你们的视野中！
-
-无作者Element授权，请勿转载！
-
-遵循 AGPL-3.0 协议 原文地址为：[文章/围绕宝塔面板开展的WP环境调优细节指南.md · 元素/webBack - 码云 - 开源中国 (gitee.com)](https://gitee.com/elementxuan/web-back/blob/master/文章/围绕宝塔面板开展的WP环境调优细节指南.md)
-
+>  此文受Miss之托才会出现在你们的视野中！
+>
+>  无作者Element授权，请勿转载！
+>
+>  遵循 AGPL-3.0 协议 原文地址为：[文章/围绕宝塔面板开展的WP环境调优细节指南.md · 元素/webBack - 码云 - 开源中国 (gitee.com)](https://gitee.com/elementxuan/web-back/blob/master/文章/围绕宝塔面板开展的WP环境调优细节指南.md)
+>
 
 # 1.我的主要需求以及环境选择
 
